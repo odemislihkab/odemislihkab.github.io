@@ -45,6 +45,13 @@ a {
     color: #9fa3a7;
 }
 
+.font-properties {
+    font-family: cursive, sans-serif;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    font-style: italic;
+}
+
 a:focus,
 a:hover {
     color: #6fc754;
