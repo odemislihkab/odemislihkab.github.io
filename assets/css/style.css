@@ -52,6 +52,14 @@ a {
     font-style: italic;
 }
 
+.center-odemis {
+    display: block;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    width: 90%;
+    height: 800px;
+}
+
 a:focus,
 a:hover {
     color: #6fc754;
